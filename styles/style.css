@@ -1,9 +1,45 @@
 .banner__bg__color {
     background-color: #FEEAE9;
+    margin-top: 70Px;
+    margin-bottom: 70px;
 }
 
 .button__buy__now {
     background-color: #e83e8c;
     padding: 5px 16px;
     color: white;
+}
+
+.format__category {
+    margin-top: 70px;
+}
+
+.bg__category__watch {
+    background-color: #ffc107;
+
+}
+
+.bg__category__watch img {
+    width: 100px;
+    height: 100px;
+}
+
+.bg__category__bag {
+    background-color: #e83e8c;
+
+}
+
+.bg__category__bag img {
+    width: 100px;
+    height: 100px;
+}
+
+.bg__category__shoes {
+    background-color: #007bff;
+
+}
+
+.bg__category__shoes img {
+    width: 100px;
+    height: 100px;
 }
