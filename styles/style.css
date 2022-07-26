@@ -53,17 +53,13 @@ section {
     background-color: whitesmoke;
 }
 
+#Padding__Margin {
+    padding: 40px;
+}
+
 .submit__button {
     padding: 1.5px 20px;
     border-radius: 10px;
-}
-
-.banner__bg__color {
-
-    height: 40px;
-    background-color: #bbb3b2;
-    border-radius: 10px;
-
 }
 
 footer {
